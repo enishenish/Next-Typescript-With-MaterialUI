@@ -8,14 +8,17 @@
     "type-check": "tsc"
   },
   "dependencies": {
+    "@material-ui/core": "^4.11.2",
+    "@material-ui/icons": "^4.11.2",
+    "@material-ui/styles": "^4.11.2",
     "next": "latest",
-    "react": "^16.12.0",
-    "react-dom": "^16.12.0"
+    "react": "latest",
+    "react-dom": "latest"
   },
   "devDependencies": {
     "@types/node": "^12.12.21",
-    "@types/react": "^16.9.16",
-    "@types/react-dom": "^16.9.4",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
     "typescript": "4.0"
   },
   "license": "MIT"
